@@ -1,0 +1,5 @@
+this are some updates 
+
+- sidebar menu that displays previous text typed 
+- when pressing the previous msg it will display as a card
+- can make it stored in an object and then will make it with a DB
